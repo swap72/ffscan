@@ -72,7 +72,7 @@ fscan/
 ## 📝 License
 
 This project is licensed under the MIT License.  
-See [LICENSE](https://github.com/swap72/fscan/blob/main/LICENSE.txt.txt) for details.
+See [LICENSE](https://github.com/swap72/ffscan/blob/main/LICENSE.txt) for details.
 
 ---
 
