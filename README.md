@@ -1,4 +1,4 @@
-# [Fast Ferris Scanner](https://i.ibb.co/39ZjMmC4/2-3.png)⚡[🦀](https://swapnil-mishra.imgbb.com/)
+# [Fast Ferris / File Folder Scanner](https://i.ibb.co/39ZjMmC4/2-3.png)⚡[🦀](https://swapnil-mishra.imgbb.com/)
 
 # Scan a directory and print a summary, skipping files smaller than 1024 Megabytes
 ffscan scan c:\users summary skip1024
