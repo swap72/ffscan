@@ -1,12 +1,12 @@
 [package]
 name = "ffscan"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 license = "MIT"
 description = "Fast directory & process scanner: scan large files/folders, list/kill processes, and print system info."
 readme = "README.md"
-repository = "https://github.com/swap72/fscan"
-homepage = "https://github.com/swap72/fscan"
+repository = "https://github.com/swap72/ffscan"
+homepage = "https://github.com/swap72/ffscan"
 categories = ["command-line-utilities", "filesystem", "os"]
 keywords = ["cli", "scanner", "filesystem", "process", "sysinfo"]
 
